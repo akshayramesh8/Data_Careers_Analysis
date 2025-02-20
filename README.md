@@ -530,14 +530,22 @@ By continuously upskilling 📚 and adapting to market demands 🌍, I am confid
 ## REFERENCE LINKS 📑
 
 [Notebook 1](EDA_Data_Jobs_India.ipynb): ```EDA_Data_Jobs.ipynb```
+
 [Notebook 2](Data_Jobs_in_India.ipynb): ```Data_Jobs_in_India.ipynb```
+
 [Notebook 3](Highest_Paid_Jobs_India.ipynb): ```Highest_Paid_Jobs_India.ipynb```
+
 [Notebook 4](Data_Skills_Demand_India.ipynb): ```Data_Skills_Demand_India.ipynb```
+
 [Notebook 5](Optimal_Skills.ipynb): ```Optimal_Skills```
+
 [Hugging Face Dataset](https://huggingface.co/datasets/lukebarousse/data_jobs)
+
 [API](datanerd.tech)
 
 ---
 
 ## NOTE OF THANKS 🤝
-Big shoutout to [Luke Barousse](https://www.youtube.com/@LukeBarousse) for his Python course that enabled me to carry out the analysis involved in this project and [Kelly Adams](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblhFQU9TTFhxeGtfczVWZWQwQjNvOFZXOVdpQXxBQ3Jtc0ttNURwSTQtMy15M2NTb0pKU1ZDdmpHNkxsZTY1LThqa3FLSlRPYTJSVVFleThmQ0R0ektHOHdOdHBFdlRhUkFZUTRJUXVlNHlJTjdpeWdVMnFybVl0TzMxOTF2Sk4xczYweXRoSHdPVWZJbEtLWnpqZw&q=https%3A%2F%2Fwww.kellyjadams.com%2F&v=wUSDVGivd-8) for curating the course content 🤝
+Major shoutout 🗣️ to [Luke Barousse](https://www.youtube.com/@LukeBarousse) for his Python course that enabled me to carry out the analysis involved in this project and [Kelly Adams](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblhFQU9TTFhxeGtfczVWZWQwQjNvOFZXOVdpQXxBQ3Jtc0ttNURwSTQtMy15M2NTb0pKU1ZDdmpHNkxsZTY1LThqa3FLSlRPYTJSVVFleThmQ0R0ektHOHdOdHBFdlRhUkFZUTRJUXVlNHlJTjdpeWdVMnFybVl0TzMxOTF2Sk4xczYweXRoSHdPVWZJbEtLWnpqZw&q=https%3A%2F%2Fwww.kellyjadams.com%2F&v=wUSDVGivd-8) for curating the course content 🏆🔥
+
+---
