@@ -6,7 +6,7 @@
 
 ## OBJECTIVE 🎯
 
-The objective of this project is to analyze the Indian data jobs market and assess the demand for Data Analysts in comparison to other data-related roles. By examining job trends 📊, industry requirements 🏢, and market competition 🏁, this study aims to determine whether pursuing a Data Analyst career in India is a viable and strategic choice. The aim of this analysis is to  provide a data-backed roadmap for career growth and strategic upskilling! 📊
+The objective of this project is to analyze the Indian data jobs market and assess the demand for **Data Analysts** in comparison to other data-related roles. By examining job trends 📊, industry requirements 🏢, and market competition 🏁, this study aims to determine whether pursuing a Data Analyst career in India is a viable and strategic choice. The aim of this analysis is to  provide a data-backed roadmap for career growth and strategic upskilling! 📊
 
 🔎 This analysis will provide insights into:
 
