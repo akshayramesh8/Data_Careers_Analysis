@@ -1,4 +1,4 @@
-# FROM DATA TO DECISIONS: CRACKING THE DATA ANALYST PATH IN INDIA
+# FROM DATA TO DECISIONS: DECODING DATA CAREERS IN INDIA
 <sup><sub><u>DISCLAIMER</u>
 <i>This project is based on the Hugging Face dataset collated via an [API](https://datanerd.tech/) created by [Luke Barousse](https://www.youtube.com/@LukeBarousse) and is intended to be indicative of real-life job postings data, but doesn't account for all possible job postings in the Indian market. This project is carried out using the data available only from this particuliar API, which serves as a sample dataset of the Indian job market.</i></sup><sub>
 
@@ -10,7 +10,7 @@ The objective of this project is to analyze the Indian data jobs market and asse
 
 🔎 This analysis will provide insights into:
 
-🔥 Demand and growth trends for Data Analyst roles compared to other data-centric positions.
+🚀 Demand and growth trends for Data Analyst roles compared to other data-centric positions.
 
 ⚖️ How Data Analysts fare against alternative career paths in the current job market.
 
@@ -18,11 +18,11 @@ The objective of this project is to analyze the Indian data jobs market and asse
 
 💰 Compensation insights to understand how skill choices impact earning potential.
 
-By uncovering these insights, this project will help validate the feasibility ✅ of transitioning into a Data Analyst role as a stepping stone towards a future in Data Engineering 🛠️.
+By uncovering these insights, this project will help validate the feasibility ✅ of transitioning into a Data Analyst role as a stepping stone towards a future in Data Engineering 📟.
 
 ---
 
-## PURPOSE OF PROJECT 🎯
+## PURPOSE OF PROJECT 📝
 I am Akshay Ramesh, a seasoned professional with 4️ years of experience spanning Growth 📈, Operations ⚙️, and Data 📊. Currently navigating a career transition 🔄, I have discovered a deep passion for working with data.
 
 💡 My previous role as an MIS Analyst at a leading EdTech company in India provided extensive exposure to large datasets 🏢 and powerful analytical tools like Tableau 📊 and Excel/Sheets 📑. Over two years, I collaborated cross-functionally, developing dashboards 📊, ad-hoc trackers 📌, and executive reports 📑 for the CEO. The insights I generated contributed to revenue growth 💰, optimized marketing campaigns 📢, and enhanced partnership programs 🤝, reinforcing my passion for data-driven decision-making 🔍.
@@ -66,7 +66,7 @@ Yet, several key questions remain:
 
 <font size=4>11. Which locations in India have the highest Data Analyst job opportunities?</font>
 
-<font size=4>12. How does India compare to other countries like USA, in terms of pay and count of job postings?
+<font size=4>12. How does India compare to other countries like USA, in terms of pay and count of job postings?</font>
 
 ---
   
@@ -77,7 +77,7 @@ Yet, several key questions remain:
 
 🔹 Jupyter Notebooks 📒 – For interactive data exploration
 
-🔹 ChatGPT-4.0 🤖 – For research, coding assistance, and generating insights
+🔹 ChatGPT-4.0 🤖 – For research, editing assistance, and generating insights
 
 🔹 Deepseek R1 🧠 – For advanced AI-powered data analysis and automation
 
