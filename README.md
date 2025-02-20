@@ -83,7 +83,7 @@ Yet, several key questions remain:
 
 ---
 
-## DATA PREPARATION AND CLEANUP 
+## 📜 DATA PREPARATION AND CLEANUP 
 We will be using this [dataset](https://www.youtube.com/@LukeBarousse), by first installing/importing all the required libraries. Once that is done, we can load the dataset from the [API](https://datanerd.tech/).
 
 Since we are working with a Hugging Face dataset, we shall convert the training portion of the dataset into a <u>Pandas DataFrame</u> for easier manipulation.
@@ -359,29 +359,45 @@ plt.show()
 ## 📈 RESULTS AND INSIGHTS
 
 #### **1️⃣ Distribution of Top 5 Data Job Roles in India**
+
 🔹 **Data Engineers dominate** the job market, accounting for **42.1%** of total jobs.
+
 🔹 **Data Scientists** hold the second-largest share at 29.3%, indicating significant demand.
+
 🔹 **Data Analysts** make up 13.5%, reflecting a moderate demand.
+
 🔹 **Senior roles** (Senior Data Engineer: 9.6%, Senior Data Scientist: 5.5%) are fewer, likely due to experience barriers.
 
 #### ✅ Key Takeaways:
-✔️ The **Data Engineer** role is the most in-demand in India among data jobs in India..
+
+✔️ The **Data Engineer** role is the most in-demand in India among data jobs in India.
+
 ✔️ **Data Science** remains a high-demand field but lags behind engineering roles.
+
 ✔️ **Data Analysts** have opportunities, though significantly fewer than **Data Engineers and Scientists**.
+
 ✔️ **Senior roles have limited availability**, possibly due to the **experience barrier** required for these positions.
 
 ---
 
 #### **2️⃣ Count of Data Analyst Jobs in India**
+
 📌 The second plot provides a **detailed count of job openings** for each data-related role.
+
 🔹 **Data Engineers** lead with 19,062 job openings, reinforcing their dominance.
+
 🔹 **Data Scientists** come next, with 13,279 openings.
+
 🔹 **Data Analysts** have 6,121 openings, much lower than Engineers and Scientists.
+
 🔹 **Senior roles** have far fewer opportunities, indicating a selective hiring process for experienced professionals.
 
 #### ✅ Key Takeaways:
+
 ✔️ **Entry-to-mid level Data Engineering & Data Science roles dominate** the Indian job market.
+
 ✔️** Data Analyst** roles are available but significantly fewer, highlighting **stronger competition**.
+
 ✔️ **Senior positions are scarce**, likely requiring extensive experience and specialized expertise.
 
 ---
@@ -390,14 +406,23 @@ plt.show()
 💡 These skills command higher salaries in the market:
 
 🔹 **PostgreSQL** – Robust and highly valued database tool.
+
 🔹 **PySpark** – Essential for handling big data.
+
 🔹 **GitLab** – Knowledge of version control and CI/CD pipelines is rewarded.
+
 🔹 **Linux** – High-paying skill, crucial for working in diverse environments.
+
 🔹 **MySQL** – Another highly valued relational database system.
+
 🔹 **GDPR** – Regulatory compliance expertise is a premium skill.
+
 🔹 **MongoDB** – NoSQL databases are in demand.
+
 🔹 **Scala** – A powerful language for big data and engineering.
+
 🔹 **Neo4j** – Specialized graph database skill with high compensation.
+
 🔹 **Databricks** – Unified data analytics platform, highly sought after.
 
 ---
@@ -406,58 +431,84 @@ plt.show()
 📌 These are the skills most frequently mentioned in job postings:
 
 🔹 **Power BI** – Highly sought-after data visualization tool.
+
 🔹 **Spark** – Big data processing is in high demand.
+
 🔹 **Tableau** – A key visualization tool for data insights.
+
 🔹 **Excel** – Still widely used in business intelligence.
+
 🔹 **SQL** – Fundamental for database querying.
+
 🔹 **Python** – Core programming language for data analysis & automation.
+
 🔹 **Azure** – Cloud computing is becoming a key requirement.
+
 🔹 **R** – Valuable for statistical modeling & analytics.
+
 🔹 **AWS** – Another major cloud computing platform.
+
 🔹 **Oracle** – Database skills still hold relevance in enterprise settings.
 
 ---
 
 #### 5️⃣ Key Insights & Implications 🔍
+
 📌 **Skill Diversification** – Combining high-demand and high-paying skills enhances marketability & salary potential.
+
 📌 **Technical Proficiency** – Strong demand for big data, databases, and programming skills.
+
 📌 **Visualization Tools** – Power BI & Tableau remain crucial for business intelligence.
+
 📌 **Cloud Computing** – AWS & Azure expertise is increasingly valuable.
+
 📌 **Compliance & Security** – GDPR & security skills are growing in importance.
 
 ---
 
-#### 🌍 Implications for Data Analysts in India
+#### 📍 Implications for Data Analysts in India
+
 📌 Aspiring Data Analysts should **consider upskilling in Data Engineering & Data Science** to increase job opportunities.
+
 📌 **Data Analyst roles face high competition** due to fewer openings.
+
 📌 **Transitioning from Data Analyst to Data Engineer** or Data Scientist provides stronger career prospects.
+
 📌 **Senior roles** are selective, requiring extensive experience.
 
 ---
 
 #### 💡 Notable Insights for Data Analysts
 📌 **Data Engineers & Data Scientists** have significantly higher demand than Data Analysts.
+
 📌 **Data Analysts face higher competition** due to the lower number of job postings.
+
 📌 **Upskilling in Big Data, Cloud Technologies, and Machine Learning** enhances long-term career prospects.
 
 ---
 
-## 📌 CONCLUSION
+## 📡 CONCLUSION
 The analysis of the Indian job market 🇮🇳 for Data Analysts 📊 has provided valuable insights 🔍 into demand 📈, required skill sets 🛠️, and career growth 🚀 in this domain.
 
 ✅ Encouragingly, my current proficiency in SQL 🛢️, Python 🐍, Excel 📑, and Tableau 📊 aligns well with the most in-demand skills sought by employers. This reinforces my confidence 💪 in securing a Data Analyst role, as these tools form the backbone of data-driven decision-making 🧠 across industries.
 
 However, while my current skillset is optimal, expanding my expertise could unlock greater opportunities 🔓:
+
 📌 Power BI 📊, though not the most optimal skill in earlier analyses, remains the most in-demand tool for Data Analysts. Learning it would be a strategic move 🎯.
+
 📌 Looker 👀 and Apache Spark 🔥 command high salaries 💰, signaling their importance in the evolving data landscape 🌍.
+
 📌 MongoDB 🗄️, a leading NoSQL database, offers premium pay 💵, making it a valuable niche skill to consider.
 
 📊 A key takeaway: Data Analyst roles remain abundant and highly relevant. In India, the demand for Data Engineers 🏗️ is currently the highest, but Data Analysts continue to hold a strong presence 💪 in the job market. This aligns well with my career trajectory:
 ➡️ Data Analyst 📊 → Senior Data Analyst 📈 → Lead Data Analyst 🚀 → Data Engineer 🏗️
 
 To ensure long-term success, I plan to:
+
 ✅ Deepen my expertise through real-world projects 🏗️
+
 ✅ Gain hands-on experience with Power BI, Spark, and Looker
+
 ✅ Familiarize myself with Data Engineering concepts such as Docker 🐳 and cloud-based data processing ☁️
 
 This will enhance my technical proficiency 📚 and position me as a well-rounded professional capable of bridging the gap between data analysis 📊 and data engineering 🏗️.
@@ -475,3 +526,18 @@ This project has:
 By continuously upskilling 📚 and adapting to market demands 🌍, I am confident in my ability to carve out a successful career in the data domain 📊🚀.
 
 ---
+
+## REFERENCE LINKS 📑
+
+[Notebook 1](EDA_Data_Jobs_India.ipynb): ```EDA_Data_Jobs.ipynb```
+[Notebook 2](Data_Jobs_in_India.ipynb): ```Data_Jobs_in_India.ipynb```
+[Notebook 3](Highest_Paid_Jobs_India.ipynb): ```Highest_Paid_Jobs_India.ipynb```
+[Notebook 4](Data_Skills_Demand_India.ipynb): ```Data_Skills_Demand_India.ipynb```
+[Notebook 5](Optimal_Skills.ipynb): ```Optimal_Skills```
+[Hugging Face Dataset](https://huggingface.co/datasets/lukebarousse/data_jobs)
+[API](datanerd.tech)
+
+---
+
+## NOTE OF THANKS 🤝
+Big shoutout to [Luke Barousse](https://www.youtube.com/@LukeBarousse) for his Python course that enabled me to carry out the analysis involved in this project and [Kelly Adams](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblhFQU9TTFhxeGtfczVWZWQwQjNvOFZXOVdpQXxBQ3Jtc0ttNURwSTQtMy15M2NTb0pKU1ZDdmpHNkxsZTY1LThqa3FLSlRPYTJSVVFleThmQ0R0ektHOHdOdHBFdlRhUkFZUTRJUXVlNHlJTjdpeWdVMnFybVl0TzMxOTF2Sk4xczYweXRoSHdPVWZJbEtLWnpqZw&q=https%3A%2F%2Fwww.kellyjadams.com%2F&v=wUSDVGivd-8) for curating the course content 🤝
