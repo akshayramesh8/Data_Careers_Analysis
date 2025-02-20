@@ -462,7 +462,7 @@ To ensure long-term success, I plan to:
 
 This will enhance my technical proficiency 📚 and position me as a well-rounded professional capable of bridging the gap between data analysis 📊 and data engineering 🏗️.
 
-#### 🚀 Final Thoughts
+#### 🧠 FINAL THOUGHTS
 
 This project has:
 ✅ Validated my chosen career path 🎯
