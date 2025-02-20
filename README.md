@@ -1,4 +1,4 @@
-# FROM DATA TO DECISIONS: DECODING DATA CAREERS IN INDIA
+# FROM DATA TO DECISIONS: DECODING DATA ANALYST CAREERS IN INDIA
 <sup><sub><u>DISCLAIMER</u>
 <i>This project is based on the Hugging Face dataset collated via an [API](https://datanerd.tech/) created by [Luke Barousse](https://www.youtube.com/@LukeBarousse) and is intended to be indicative of real-life job postings data, but doesn't account for all possible job postings in the Indian market. This project is carried out using the data available only from this particuliar API, which serves as a sample dataset of the Indian job market.</i></sup><sub>
 
@@ -107,7 +107,7 @@ df = dataset['train'].to_pandas()
 df['job_posted_date'] = pd.to_datetime(df['job_posted_date'])
 df['job_skills'] = df['job_skills'].apply(lambda x: ast.literal_eval(x) if pd.notna(x) else x)
 
-df.sample(7)
+df.sample(5)
 ```
 
 The above code shows us a sample output of the dataframe we will be working with on this project:
