@@ -1,4 +1,4 @@
-# FROM DATA TO DECISIONS: CRACKING THE DATA ANALYST PATH
+# FROM DATA TO DECISIONS: CRACKING THE DATA ANALYST PATH IN INDIA
 <sup><sub><u>DISCLAIMER</u>
 <i>This project is based on the Hugging Face dataset collated via an [API](https://datanerd.tech/) created by [Luke Barousse](https://www.youtube.com/@LukeBarousse) and is intended to be indicative of real-life job postings data, but doesn't account for all possible job postings in the Indian market. This project is carried out using the data available only from this particuliar API, which serves as a sample dataset of the Indian job market.</i></sup><sub>
 
