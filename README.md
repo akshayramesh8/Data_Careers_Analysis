@@ -466,7 +466,7 @@ plt.show()
 
 ---
 
-#### 📍 Implications for Data Analysts in India
+#### 6️⃣ Implications for Data Analysts in India 📍
 
 📌 Aspiring Data Analysts should **consider upskilling in Data Engineering & Data Science** to increase job opportunities.
 
@@ -478,7 +478,7 @@ plt.show()
 
 ---
 
-#### 💡 Notable Insights for Data Analysts
+#### 7️⃣ Notable Insights for Data Analysts 💡
 📌 **Data Engineers & Data Scientists** have significantly higher demand than Data Analysts.
 
 📌 **Data Analysts face higher competition** due to the lower number of job postings.
@@ -487,7 +487,7 @@ plt.show()
 
 ---
 
-## 📡 CONCLUSION
+## 🏁 CONCLUSION 
 The analysis of the Indian job market 🇮🇳 for Data Analysts 📊 has provided valuable insights 🔍 into demand 📈, required skill sets 🛠️, and career growth 🚀 in this domain.
 
 ✅ Encouragingly, my current proficiency in SQL 🛢️, Python 🐍, Excel 📑, and Tableau 📊 aligns well with the most in-demand skills sought by employers. This reinforces my confidence 💪 in securing a Data Analyst role, as these tools form the backbone of data-driven decision-making 🧠 across industries.
@@ -546,6 +546,7 @@ By continuously upskilling 📚 and adapting to market demands 🌍, I am confid
 ---
 
 ## NOTE OF THANKS 🤝
+
 Major shoutout 🗣️ to [Luke Barousse](https://www.youtube.com/@LukeBarousse) for his Python course that enabled me to carry out the analysis involved in this project and [Kelly Adams](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblhFQU9TTFhxeGtfczVWZWQwQjNvOFZXOVdpQXxBQ3Jtc0ttNURwSTQtMy15M2NTb0pKU1ZDdmpHNkxsZTY1LThqa3FLSlRPYTJSVVFleThmQ0R0ektHOHdOdHBFdlRhUkFZUTRJUXVlNHlJTjdpeWdVMnFybVl0TzMxOTF2Sk4xczYweXRoSHdPVWZJbEtLWnpqZw&q=https%3A%2F%2Fwww.kellyjadams.com%2F&v=wUSDVGivd-8) for curating the course content 🏆🔥
 
 ---
