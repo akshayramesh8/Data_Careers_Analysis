@@ -487,7 +487,7 @@ plt.show()
 
 ---
 
-## 🏁 CONCLUSION 
+## 🏁 CONCLUSION 🏁
 The analysis of the Indian job market 🇮🇳 for Data Analysts 📊 has provided valuable insights 🔍 into demand 📈, required skill sets 🛠️, and career growth 🚀 in this domain.
 
 ✅ Encouragingly, my current proficiency in SQL 🛢️, Python 🐍, Excel 📑, and Tableau 📊 aligns well with the most in-demand skills sought by employers. This reinforces my confidence 💪 in securing a Data Analyst role, as these tools form the backbone of data-driven decision-making 🧠 across industries.
@@ -537,7 +537,7 @@ By continuously upskilling 📚 and adapting to market demands 🌍, I am confid
 
 [Notebook 4](Data_Skills_Demand_India.ipynb): ```Data_Skills_Demand_India.ipynb```
 
-[Notebook 5](Optimal_Skills.ipynb): ```Optimal_Skills```
+[Notebook 5](Optimal_Skills.ipynb): ```Optimal_Skills.ipynb```
 
 [Hugging Face Dataset](https://huggingface.co/datasets/lukebarousse/data_jobs)
 
