@@ -541,6 +541,8 @@ By continuously upskilling 📚 and adapting to market demands 🌍, I am confid
 
 [API](datanerd.tech)
 
+The complete project can be found [here](Data_Careers_Analysis_Report.md).
+
 ---
 
 ## NOTE OF THANKS 🤝
