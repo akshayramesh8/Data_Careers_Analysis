@@ -382,8 +382,6 @@ plt.show()
 
 #### **2️⃣ Count of Data Analyst Jobs in India**
 
-📌 The second plot provides a **detailed count of job openings** for each data-related role.
-
 🔹 **Data Engineers** lead with 19,062 job openings, reinforcing their dominance.
 
 🔹 **Data Scientists** come next, with 13,279 openings.
