@@ -394,7 +394,7 @@ plt.show()
 
 ✔️ **Entry-to-mid level Data Engineering & Data Science roles dominate** the Indian job market.
 
-✔️** Data Analyst** roles are available but significantly fewer, highlighting **stronger competition**.
+✔️ **Data Analyst** roles are available but significantly fewer, highlighting **stronger competition**.
 
 ✔️ **Senior positions are scarce**, likely requiring extensive experience and specialized expertise.
 
