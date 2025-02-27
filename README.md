@@ -71,7 +71,7 @@ Yet, several key questions remain:
 ---
   
 ## 🛠️ TOOLS I USED
-🔹 Python 🐍 – For data analysis and automation
+🔹 Python 🐍 (Pandas, Matplotlib, Seaborn) – For data analysis and automation
 
 🔹 VSCode 🖥️ – For coding and script execution
 
