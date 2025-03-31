@@ -93,7 +93,7 @@ Then we shall convert the column ```job_posted_date``` into datetime format for 
 Below is the code for this task:
 
 ```python
-# !pip install datasets  # Required for Hugging Face datasets library (first-time setup only)
+!pip install datasets  # Required for Hugging Face datasets library (first-time setup only)
 
 # Core data processing
 import numpy as np  # Numerical computing (arrays, math operations)
