@@ -93,13 +93,19 @@ Then we shall convert the column ```job_posted_date``` into datetime format for 
 Below is the code for this task:
 
 ```python
-!pip install datasets # installation for jupyter notebook
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-import ast
-from datasets import load_dataset
+# !pip install datasets  # Required for Hugging Face datasets library (first-time setup only)
+
+# Core data processing
+import numpy as np  # Numerical computing (arrays, math operations)
+import pandas as pd  # Data manipulation/analysis (DataFrames)
+
+# Visualization
+import matplotlib.pyplot as plt  # Basic plotting (charts, graphs)
+import seaborn as sns  # Enhanced visualizations (statistical plots)
+
+# Special utilities
+import ast  # Safe evaluation of string literals (e.g., converting stringified lists to lists)
+from datasets import load_dataset  # Hugging Face's dataset loader (access to curated datasets)
 
 dataset = load_dataset('lukebarousse/data_jobs')
 df = dataset['train'].to_pandas()
